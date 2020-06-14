@@ -1,0 +1,9 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 May 2020, 20 May 2020, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 May 2020, 1 June 2020, Yes
+gerry, Documentation, Sort all documents according to date created, 31 May 2020, 10 June 2020, No
+asher67, Review, Review our profit numbers for the last 3 months, 10 May 2020, 20 May 2020, No
+luke, Planning, Plan a stratergy to increase profits by 15% in 3 months, 15 May 2020, 28 May 2020, No
+gerry, Pay Roll, Generate pay role for the current month, 14 May 2020, 22 May 2020, Yes
+rachael, Marketing, Develop marketing products for new products, 10 May 2020, 28 May 2020, No
+mark, Recruitment, Interview candidates for vacant position, 20 May 2020, 10 June 2020, No
+gerry, Bookkeeping, Balance books for the month, 18 May 2020, 23 May 2020, Yes

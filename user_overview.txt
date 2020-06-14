@@ -1,0 +1,45 @@
+Users Information:
+Total Users: 6
+Total Tasks: 9
+
+User: admin
+Tasks Assigned: 2
+Percentage Assigned: 22.22
+Percentage Completed: 50.0%
+Percentage Incompleted: 50.0%
+Percentage Overdue: 50.0%
+
+User: mark
+Tasks Assigned: 1
+Percentage Assigned: 11.11
+Percentage Completed: 0.0%
+Percentage Incompleted: 100.0%
+Percentage Overdue: 0.0%
+
+User: gerry
+Tasks Assigned: 3
+Percentage Assigned: 33.33
+Percentage Completed: 66.67%
+Percentage Incompleted: 33.33%
+Percentage Overdue: 0.0%
+
+User: luke
+Tasks Assigned: 1
+Percentage Assigned: 11.11
+Percentage Completed: 0.0%
+Percentage Incompleted: 100.0%
+Percentage Overdue: 0.0%
+
+User: asher67
+Tasks Assigned: 1
+Percentage Assigned: 11.11
+Percentage Completed: 0.0%
+Percentage Incompleted: 100.0%
+Percentage Overdue: 100.0%
+
+User: rachael
+Tasks Assigned: 1
+Percentage Assigned: 11.11
+Percentage Completed: 0.0%
+Percentage Incompleted: 100.0%
+Percentage Overdue: 0.0%
