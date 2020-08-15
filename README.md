@@ -1,7 +1,7 @@
 # Task_Manager
 Python Capstone Project IV
 
-This is a Pythone program for a small business that helps it to manage tasks assigned to each member of the team.
+This is a Python program for a small business that helps it to manage tasks assigned to each member of the team.
 The user must provide correct login details to begin.
 The list of valid users that the program uses is stored in a text file and tasks in a separate text file.
 Once user successfully logs in a menu option is provided and user is prompted to select from the menu and results produced accordingly.
